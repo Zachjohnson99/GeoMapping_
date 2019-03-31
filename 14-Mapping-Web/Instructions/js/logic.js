@@ -26,7 +26,7 @@ var tectonicplates = new L.LayerGroup();
 var earthquakes = new L.LayerGroup();
 
 // base layers
-// var baseMaps = {
+var baseMaps = {
   Satellite: satellitemap_background,
   Grayscale: graymap_background,
   Outdoors: outdoors_background
